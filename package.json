@@ -1,0 +1,40 @@
+{
+  "name": "bubblegumtheme",
+  "displayName": "bubbleGumTheme",
+  "description": "dark shiny pink-purple-blue theme for tacky people like me.",
+  "version": "0.00.1",
+  "publisher": "mariof99",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariof99/bubbleGumTheme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariof99/bubbleGumTheme.git",
+    "email": "madidodogo7@gmail.com"
+  },
+  "galleryBanner": {
+    "color": "#FDFDFE",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "pink",
+    "blue",
+    "dark",
+    "high pitch"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bubbleGumTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bubbleGumTheme-color-theme.json"
+      }
+    ]
+  }
+}
